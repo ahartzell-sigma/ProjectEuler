@@ -28,7 +28,7 @@ def FindMult(MaxNum, Multplier):
   #  print(MultSum)
     return MultSum, All;
 
-MaxNum=1000
+MaxNum=10**7
 Multplier=5
 [Mult5Sum,All5]=FindMult(MaxNum,Multplier)
 
